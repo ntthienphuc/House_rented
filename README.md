@@ -31,9 +31,3 @@ This SQL project is part of the 'Real-time Body Measurement using Pose Estimatio
 
 ## Contributing
 Contributions to this project are welcome. Please ensure you follow best practices for database management and SQL standards.
-
-## License
-This project is licensed under the MIT License.
-
-## Acknowledgments
-- Thanks to the developers and contributors of the 'Real-time Body Measurement using Pose Estimation and Deep Learning' system.
